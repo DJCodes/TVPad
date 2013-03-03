@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<CATALOG>
+    <CHANNEL title="国产电视剧" url="/GuoChanDianShiJu/" key="GuoChanDianShiJu"/>
+    <CHANNEL title="香港电视剧" url="/XiangGangDianShiJu/" key="XiangGangDianShiJu"/>
+    <CHANNEL title="台湾电视剧" url="/TaiWanDianShiJu/" key="TaiWanDianShiJu"/>
+    <CHANNEL title="韩国电视剧" url="/HanGuoDianShiJu/" key="HanGuoDianShiJu"/>
+    <CHANNEL title="日本电视剧" url="/RiBenDianShiJu/" key="RiBenDianShiJu"/>
+    <CHANNEL title="欧美电视剧" url="/OuMeiDianShiJu/" key="OuMeiDianShiJu"/>
+    <CHANNEL title="新马泰电视剧" url="/XinMaTaiDianShiJu/" key="XinMaTaiDianShiJu"/>
+</CATALOG>
